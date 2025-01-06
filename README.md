@@ -7,9 +7,11 @@ City-Level Fare and Trip Summary:
 
 Aggregates total trips, calculates average fare per kilometer and determines each city's contribution to the overall trip count.
 Assesses pricing efficiency and trip volume to guide strategic decision-making.
+
 **Monthly Performance Evaluation:**
 Compares actual trips against target trips for each city and month.
 Categorizes performance as "Above Target" or "Below Target" with a detailed percentage difference analysis.
+
 **Passenger Loyalty Analysis:**
 Tracks the frequency of repeat trips for passengers across cities.
 Identifies customer loyalty patterns by analyzing the percentage distribution of passengers based on trip counts.
